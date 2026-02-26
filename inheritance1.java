@@ -46,3 +46,24 @@
 //         s1.run();
 //     }
 // }
+
+// MULTIPLE INHERITANCE USING INHERITANCE
+
+// interface Animal{
+//     void run();
+// }
+// interface Dog{
+//     void run();
+// }
+// class Puppy implements Animal,Dog{
+//     public void run(){
+//         System.out.println("running");
+//     }
+// }
+// class inheritance1{
+//     public static void main(String[] args) {
+//         Puppy s1 = new Puppy() ;
+//         s1.run();
+        
+//     }
+// }
